@@ -1,0 +1,4 @@
+- garden.larralapid.dev
+- larralapid.github.io
+  - current resume
+  - built w/ gh pages
